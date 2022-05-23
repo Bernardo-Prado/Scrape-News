@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto de Tech News!
+# Boas vindas ao repositório do projeto de Scrape-News!
 
 
 # Sumário
